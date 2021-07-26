@@ -1,0 +1,72 @@
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+
+body
+{
+    background-size: cover;
+    background-position: center;
+}
+
+canvas{
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 10px;
+    
+}
+
+h1
+{
+    color:black;
+    background-color: red;
+    width: 200px;
+}
+
+#house
+{
+    width: 100px;
+    background-color: chartreuse;
+    height: 30px;
+    color: black;
+}
+
+#hall
+{
+    width: 100px;
+    background-color: crimson;
+    height: 30px;
+    color: black;
+}
+
+#kids_room
+{
+    width: 100px;
+    background-color: deeppink;
+    height: 30px;
+    color: black;
+}
+
+#play_area
+{
+    width: 150px;
+    background-color: gold;
+    height: 30px;
+    color: black;
+}
+
+#home_theatre
+{
+    width: 150px;
+    background-color:tomato;
+    height: 50px;
+    color: black;
+}
+
